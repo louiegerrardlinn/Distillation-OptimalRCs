@@ -44,8 +44,6 @@ Both LSTM and Transformer models achieved extremely high numerical agreement wit
 * Pearson correlation > 0.99
 * Strong agreement with free energy profiles
 
-![LSTM FEP Comparison](figures/lstm/fep_comparison_lstm.png)
-
 However:
 
 * Neither architecture satisfied the Zq dynamical validation criterion
