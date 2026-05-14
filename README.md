@@ -121,4 +121,4 @@ The project focused on combining machine learning with molecular biophysics to i
 Louie Gerrard-Linn
 
 University of Leeds
-BSc Biological Sciences
+BSc Biochemistry (International)
