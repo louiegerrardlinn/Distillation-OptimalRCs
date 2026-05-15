@@ -65,9 +65,9 @@ This demonstrated that the limitation was not model capacity, but reconstructing
 
 | File                                        | Description                                          |
 | ------------------------------------------- | ---------------------------------------------------- |
-| `LSTM-Repository.ipynb`                     | LSTM architecture implementation and analysis        |
-| `Transformer-Repository.ipynb`              | Generalised Transformer model implementation         |
-| `Approximating power test-repository.ipynb` | Full-trajectory Transformer approximation experiment |
+| `lstm_committor_model.ipynb`                     | LSTM architecture implementation and analysis        |
+| `transformer_committor_model.ipynb`              | Generalised Transformer model implementation         |
+| `Approxtest_comittor_model.ipynb` | Full-trajectory Transformer approximation experiment |
 
 ---
 
